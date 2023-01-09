@@ -2,6 +2,7 @@
     background-color: $mainBlue;
     color: #fff;
     text-align: center;
+    font-weight: 200;
 
     &__text {
         display: block;
@@ -11,7 +12,6 @@
             display: inline;
             margin-bottom: 0;
             margin-right: 1.5rem;
-            font-weight: 200;
         }
     }
 }
