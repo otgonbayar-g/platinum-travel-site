@@ -100,7 +100,7 @@
     &__menu-content {
         opacity: 0;
         transform: scale(1.2);
-        transition: all 0.3 ease-out;
+        transition: all 0.3s ease-out;
         position: relative;
         z-index: -10;
         padding-top: 90px;
